@@ -1,0 +1,17 @@
+[
+    {
+        "symbol": "AAPL",
+        "price": 196.6,
+        "datetime": "2025-04-22 19:05:20"
+    },
+    {
+        "symbol": "MSFT",
+        "price": 360.14,
+        "datetime": "2025-04-22 19:05:20"
+    },
+    {
+        "symbol": "TSLA",
+        "price": 231.63,
+        "datetime": "2025-04-22 19:05:21"
+    }
+]
